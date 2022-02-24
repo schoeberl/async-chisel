@@ -1,5 +1,7 @@
-# chisel-empty
+# Asynchronous Design with Chisel
 
-An almost empty chisel project as a starting point for hardware design.
+Explore using a Click element with Chisel.
+
+See: "Click Elements: An Implementation Style for Data-Driven Compilation"
 
 See the `Makefile` for the hardware and test targets.
